@@ -1,12 +1,15 @@
 <?php
 
 namespace App\HttpController;
-use EasySwoole\Http\AbstractInterface\Controller;
 
-class Index extends Controller
+class Index extends Common
 {
     function index()
     {
+        var_dump($this->request()->getAttributes());
+        var_dump($this->request()->getRequestParam());
+        var_dump($this->request()->getMethod());
+        var_dump($this->request()->getCookieParams());
         $this->writeJson(200, [], 'success');
         return '/test';
     }
@@ -22,7 +25,7 @@ class Index extends Controller
         $this->response()->write('this is test2');
         return true;
     }
-    
+
     public function say()
     {
         $this->response()->write('say hello world');
