@@ -6,11 +6,10 @@ class Index extends Common
 {
     function index()
     {
-        var_dump($this->request()->getAttributes());
-        var_dump($this->request()->getRequestParam());
-        var_dump($this->request()->getMethod());
-        var_dump($this->request()->getCookieParams());
-        $this->writeJson(200, [], 'success');
+        $this->writeJson(200, $this->request()->getAttributes(), 'getAttributes  ');
+        $this->writeJson(200, $this->request()->getRequestParam(), 'getRequestParam  ');
+        $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
+        $this->response()->write('getMethod:'.$this->request()->getMethod());
         return '/test';
     }
 
