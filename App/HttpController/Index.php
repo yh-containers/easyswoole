@@ -37,4 +37,14 @@ class Index extends Common
         $this->response()->write('say hello world');
         // TODO: Implement index() method.
     }
+
+    public function t_session()
+    {
+        $req_name = $this->request()->getRequestParam('name');
+        $this->response()->setCookie('name',$req_name);
+        $this->writeJson(200, $this->response()->getCookies(), 'getCookies  ');
+        $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
+    }
+
+
 }
