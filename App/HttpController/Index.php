@@ -52,5 +52,21 @@ class Index extends Common
         $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
     }
 
+    public function set_session()
+    {
+        $req_name = $this->request()->getRequestParam('name');
+        $this->session()->start();
+        $bool = $this->session()->set('session_var',$req_name);
+        $this->response()->write($bool);
+        $this->response()->end();
+    }
+
+    public function get_session()
+    {
+        var_dump($this->session()->sid());
+        $this->writeJson(200, $this->session()->get(''), 'getCookies  ');
+        $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
+    }
+
 
 }
