@@ -64,7 +64,7 @@ class Index extends Common
     public function get_session()
     {
         var_dump($this->session()->sid());
-        $this->writeJson(200, $this->session()->get(''), 'getCookies  ');
+        $this->writeJson(200, $this->session()->get('session_var'), 'get_session  ');
         $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
     }
 
