@@ -38,10 +38,16 @@ class Index extends Common
         // TODO: Implement index() method.
     }
 
-    public function t_session()
+    public function set_cookie()
     {
         $req_name = $this->request()->getRequestParam('name');
-        $this->response()->setCookie('name',$req_name);
+        $bool = $this->response()->setCookie('name',$req_name);
+        $this->response()->write($bool);
+        $this->response()->end();
+    }
+
+    public function get_cookie()
+    {
         $this->writeJson(200, $this->response()->getCookies(), 'getCookies  ');
         $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
     }
