@@ -2,12 +2,19 @@
 
 namespace App\HttpController;
 
+use EasySwoole\Component\Di;
+
 class Index extends Common
 {
+//    public static function initialize()
+//    {
+//        Di::getInstance()->set(SysConst::HTTP_CONTROLLER_MAX_DEPTH,5);
+//    }
     function index()
     {
         $this->writeJson(200, $this->request()->getAttributes(), 'getAttributes  ');
         $this->writeJson(200, $this->request()->getRequestParam(), 'getRequestParam  ');
+        $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
         $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
         $this->response()->write('getMethod:'.$this->request()->getMethod());
         return '/test';
