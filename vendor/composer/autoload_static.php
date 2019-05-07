@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitbadc789667018bb9bedd334aa18d911a
+class ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3
 {
     public static $files = array (
         '253c157292f75eb38082b5acb06f3f01' => __DIR__ . '/..' . '/nikic/fast-route/src/functions.php',
@@ -14,6 +14,10 @@ class ComposerStaticInitbadc789667018bb9bedd334aa18d911a
     );
 
     public static $prefixLengthsPsr4 = array (
+        't' => 
+        array (
+            'think\\' => 6,
+        ),
         'p' => 
         array (
             'phpDocumentor\\Reflection\\' => 25,
@@ -60,9 +64,17 @@ class ComposerStaticInitbadc789667018bb9bedd334aa18d911a
         array (
             'Cron\\' => 5,
         ),
+        'A' => 
+        array (
+            'App\\' => 4,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
+        'think\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/topthink/think-template/src',
+        ),
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
@@ -152,6 +164,10 @@ class ComposerStaticInitbadc789667018bb9bedd334aa18d911a
         'Cron\\' => 
         array (
             0 => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/App',
         ),
     );
 
@@ -719,10 +735,10 @@ class ComposerStaticInitbadc789667018bb9bedd334aa18d911a
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitbadc789667018bb9bedd334aa18d911a::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitbadc789667018bb9bedd334aa18d911a::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitbadc789667018bb9bedd334aa18d911a::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitbadc789667018bb9bedd334aa18d911a::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3::$classMap;
 
         }, null, ClassLoader::class);
     }
