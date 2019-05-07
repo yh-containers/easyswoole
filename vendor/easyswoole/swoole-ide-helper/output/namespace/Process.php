@@ -20,9 +20,10 @@ class Process
      * @param $callback[required]
      * @param $redirect_stdin_and_stdout[optional]
      * @param $pipe_type[optional]
+     * @param $enable_coroutine[optional]
      * @return mixed
      */
-    public function __construct($callback, $redirect_stdin_and_stdout=null, $pipe_type=null){}
+    public function __construct($callback, $redirect_stdin_and_stdout=null, $pipe_type=null, $enable_coroutine=null){}
 
     /**
      * @return mixed
@@ -44,9 +45,10 @@ class Process
 
     /**
      * @param $usec[required]
+     * @param $type[optional]
      * @return mixed
      */
-    public static function alarm($usec){}
+    public static function alarm($usec, $type=null){}
 
     /**
      * @param $pid[required]
@@ -63,6 +65,12 @@ class Process
     public static function daemon($nochdir=null, $noclose=null){}
 
     /**
+     * @param $cpu_settings[required]
+     * @return mixed
+     */
+    public static function setaffinity($cpu_settings){}
+
+    /**
      * @param $seconds[required]
      * @return mixed
      */
@@ -77,9 +85,10 @@ class Process
     /**
      * @param $key[optional]
      * @param $mode[optional]
+     * @param $capacity[optional]
      * @return mixed
      */
-    public function useQueue($key=null, $mode=null){}
+    public function useQueue($key=null, $mode=null, $capacity=null){}
 
     /**
      * @return mixed
@@ -137,6 +146,11 @@ class Process
      * @return mixed
      */
     public function exec($exec_file, $args){}
+
+    /**
+     * @return mixed
+     */
+    public function exportSocket(){}
 
     /**
      * @param $process_name[required]
