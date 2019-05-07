@@ -19,11 +19,13 @@ class One extends AbstractProcess
     public function onShutDown()
     {
         // TODO: Implement onShutDown() method.
+        Logger::getInstance()->console(date('Y-m-d H:i:s')." onShutDown");
     }
 
     public function onReceive(string $str)
     {
         // TODO: Implement onReceive() method.
+        Logger::getInstance()->console($str." string");
     }
 
 }

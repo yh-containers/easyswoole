@@ -69,6 +69,10 @@ class Index extends Common
     }
 
 
+    public function test_process()
+    {
+//        ServerManager::getInstance()->getSwooleServer()
+    }
 
 
 }
