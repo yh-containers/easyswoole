@@ -31,6 +31,7 @@ class ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3
             'Symfony\\Polyfill\\Util\\' => 22,
             'Symfony\\Polyfill\\Php56\\' => 23,
             'Symfony\\Polyfill\\Ctype\\' => 23,
+            'Swoole\\IDEHelper\\' => 17,
             'SuperClosure\\' => 13,
         ),
         'P' => 
@@ -96,6 +97,10 @@ class ComposerStaticInit1c626792fa5c9e04e6826c8196b159e3
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
+        ),
+        'Swoole\\IDEHelper\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/swoole/ide-helper/src',
         ),
         'SuperClosure\\' => 
         array (
