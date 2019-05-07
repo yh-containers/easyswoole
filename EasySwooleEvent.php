@@ -26,6 +26,8 @@ class EasySwooleEvent implements Event
     public static function mainServerCreate(EventRegister $register)
     {
         // TODO: Implement mainServerCreate() method.
+        $one_process = new \App\Components\Process\One("processName",time(),false,2,true);
+        ServerManager::getInstance()->getSwooleServer()->addProcess($one_process->getProcess());
     }
 
     public static function onRequest(Request $request, Response $response): bool

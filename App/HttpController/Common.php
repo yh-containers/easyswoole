@@ -9,7 +9,7 @@ class Common extends Controller
     public function index()
     {
         // TODO: Implement index() method.
-        $this->actionNotFound('index');
+        $this->response()->write(getcwd());
     }
 
 
