@@ -10,6 +10,7 @@ class Common extends Controller
     {
         // TODO: Implement index() method.
         $this->response()->write(getcwd());
+
     }
 
 

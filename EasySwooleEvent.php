@@ -13,6 +13,7 @@ use EasySwoole\EasySwoole\Swoole\EventRegister;
 use EasySwoole\EasySwoole\AbstractInterface\Event;
 use EasySwoole\Http\Request;
 use EasySwoole\Http\Response;
+use EasySwoole\EasySwoole\Logger;
 
 class EasySwooleEvent implements Event
 {
@@ -28,6 +29,9 @@ class EasySwooleEvent implements Event
         // TODO: Implement mainServerCreate() method.
         $one_process = new \App\Components\Process\One("processName",time(),false,2,true);
         ServerManager::getInstance()->getSwooleServer()->addProcess($one_process->getProcess());
+
+        //3.x-async
+        ServerManager::getInstance()->getSwooleServer()->addProcess((new Task('processTask'))->getProcess());
     }
 
     public static function onRequest(Request $request, Response $response): bool
@@ -39,5 +43,6 @@ class EasySwooleEvent implements Event
     public static function afterRequest(Request $request, Response $response): void
     {
         // TODO: Implement afterAction() method.
+        Logger::getInstance()->console("afterRequest string getBody".$response->getBody());
     }
 }

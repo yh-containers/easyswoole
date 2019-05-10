@@ -71,7 +71,8 @@ class Index extends Common
 
     public function test_process()
     {
-//        ServerManager::getInstance()->getSwooleServer()
+//        ServerManager::getInstance()->getSwooleServer()vendor/easyswoole/swoole-ide-helper/dump.php
+        ServerManager::getInstance()->getSwooleServer()->getProcess($one_process->getProcess());
     }
 
 
