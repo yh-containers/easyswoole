@@ -8,7 +8,7 @@
 namespace App\Task;
 use EasySwoole\EasySwoole\Swoole\Task\AbstractAsyncTask;
 
-class Test extends AbstractAsyncTask
+class ProcessTest extends AbstractAsyncTask
 {
     protected function finish($result, $task_id)
     {
