@@ -10,6 +10,7 @@ namespace EasySwoole\EasySwoole;
 
 
 use App\Process\Task;
+use App\Utility\Pool\MysqlPool;
 use Co\Mysql;
 use EasySwoole\Component\Pool\PoolManager;
 use EasySwoole\EasySwoole\Swoole\EventRegister;
@@ -27,7 +28,7 @@ class EasySwooleEvent implements Event
         date_default_timezone_set('Asia/Shanghai');
 
         //
-        $mysqlConf = PoolManager::getInstance()->register(Mysql::class,Config::getInstance()->getConf('Mysql.POOL_MAX_NUM'));
+        $mysqlConf = PoolManager::getInstance()->register(MysqlPool::class, Config::getInstance()->getConf('MYSQL.POOL_MAX_NUM'));
         if($mysqlConf===null){
             //当返回null时,代表注册失败,无法进行再次的配置修改
             //注册失败不一定要抛出异常,因为内部实现了自动注册,不需要注册也能使用

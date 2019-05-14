@@ -11,7 +11,7 @@ use EasySwoole\Http\AbstractInterface\Controller;
 use EasySwoole\Http\Message\Status;
 use EasySwoole\Spl\SplBean;
 
-class Async extends Controller
+class MysqlTest extends Controller
 {
     /**
      * model写法1操作数据库
