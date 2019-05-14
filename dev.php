@@ -35,5 +35,16 @@ return [
     'DISPLAY_ERROR' => true,
     'PHAR' => [
         'EXCLUDE' => ['.idea', 'Log', 'Temp', 'easyswoole', 'easyswoole.install']
-    ]
+    ],
+    'MYSQL'         => [
+    'host'          => '127.0.0.1',//防止报错,就不切换数据库了
+    'port'          => '3306',
+    'user'          => 'root',
+    'timeout'       => '5',
+    'charset'       => 'utf8mb4',
+    'password'      => 'slh123',
+    'database'      => 'test',
+    'POOL_MAX_NUM'  => '10',
+    'POOL_TIME_OUT' => '0.1'
+],
 ];

@@ -10,6 +10,8 @@ namespace EasySwoole\EasySwoole;
 
 
 use App\Process\Task;
+use Co\Mysql;
+use EasySwoole\Component\Pool\PoolManager;
 use EasySwoole\EasySwoole\Swoole\EventRegister;
 use EasySwoole\EasySwoole\AbstractInterface\Event;
 use EasySwoole\Http\Request;
@@ -23,6 +25,17 @@ class EasySwooleEvent implements Event
     {
         // TODO: Implement initialize() method.
         date_default_timezone_set('Asia/Shanghai');
+
+        //
+        $mysqlConf = PoolManager::getInstance()->register(Mysql::class,Config::getInstance()->getConf('Mysql.POOL_MAX_NUM'));
+        if($mysqlConf===null){
+            //当返回null时,代表注册失败,无法进行再次的配置修改
+            //注册失败不一定要抛出异常,因为内部实现了自动注册,不需要注册也能使用
+            throw new \Exception('注册失败!');
+        }
+        //设置其他参数
+        $mysqlConf->setMaxObjectNum(20)->setMinObjectNum(5);
+
     }
 
     public static function mainServerCreate(EventRegister $register)
@@ -32,7 +45,16 @@ class EasySwooleEvent implements Event
 //        ServerManager::getInstance()->getSwooleServer()->addProcess($one_process->getProcess());
 
         //3.x-async
-        ServerManager::getInstance()->getSwooleServer()->addProcess((new Task('processTask'))->getProcess());
+//        ServerManager::getInstance()->getSwooleServer()->addProcess((new Task('processTask'))->getProcess());
+
+        ################### mysql 热启动   #######################
+        $register->add($register::onWorkerStart, function (\swoole_server $server, int $workerId) {
+            if ($server->taskworker == false) {
+                //每个worker进程都预创建连接
+                PoolManager::getInstance()->getPool(MysqlPool::class)->preLoad(5);//最小创建数量
+            }
+        });
+
     }
 
     public static function onRequest(Request $request, Response $response): bool
