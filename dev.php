@@ -45,6 +45,6 @@ return [
     'password'      => 'slh123',
     'database'      => 'test',
     'POOL_MAX_NUM'  => '10',
-    'POOL_TIME_OUT' => '0.1'
-],
+    'POOL_TIME_OUT' => '0.1',
+    ],
 ];
