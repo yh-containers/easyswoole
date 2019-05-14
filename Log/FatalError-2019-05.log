@@ -1,0 +1,882 @@
+[2019-05-10 22:38:27][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:27][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:28][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:28][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:30][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:32][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:35][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:38:42][FatalError][file:/var/www/code/EasySwooleEvent.php][line:34]Uncaught Error: Class 'EasySwoole\EasySwoole\Task' not found in /var/www/code/EasySwooleEvent.php:34
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:51][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:52][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun
+[2019-05-10 22:40:53][FatalError][file:/var/www/code/App/Process/Task.php][line:26]Uncaught Error: Class 'App\Task\ProcessTest' not found in /var/www/code/App/Process/Task.php:26
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/component/src/Process/AbstractProcess.php(119): App\Process\Task->run(NULL)
+#1 [internal function]: EasySwoole\Component\Process\AbstractProcess->__start(Object(Swoole\Process))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(136): EasySwoole\EasySwoole\ServerManager->start()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#6 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#7 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRun

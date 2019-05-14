@@ -37,7 +37,7 @@ return [
         'EXCLUDE' => ['.idea', 'Log', 'Temp', 'easyswoole', 'easyswoole.install']
     ],
     'MYSQL'         => [
-    'host'          => '127.0.0.1',//防止报错,就不切换数据库了
+    'host'          => '47.98.131.214',//防止报错,就不切换数据库了
     'port'          => '3306',
     'user'          => 'root',
     'timeout'       => '5',
