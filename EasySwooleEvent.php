@@ -49,12 +49,15 @@ class EasySwooleEvent implements Event
 //        ServerManager::getInstance()->getSwooleServer()->addProcess((new Task('processTask'))->getProcess());
 
         ################### mysql 热启动   #######################
-//        $register->add($register::onWorkerStart, function (\swoole_server $server, int $workerId) {
-//            if ($server->taskworker == false) {
-//                //每个worker进程都预创建连接
-//                PoolManager::getInstance()->getPool(MysqlPool::class)->preLoad(5);//最小创建数量
-//            }
-//        });
+        $register->add($register::onWorkerStart, function (\swoole_server $server, int $workerId) {
+            if ($server->taskworker == false) {
+                Logger::getInstance()->console("false onWorkerStart:".$workerId);
+                //每个worker进程都预创建连接
+                PoolManager::getInstance()->getPool(MysqlPool::class)->preLoad(5);//最小创建数量
+            }else{
+                Logger::getInstance()->console("true onWorkerStart:".$workerId);
+            }
+        });
 
     }
 
