@@ -80,11 +80,6 @@ class Index extends Common
             'user'=>'easyswoole',
             'time'=>time()
         ]));
-        $this->response()->write(Render::getInstance()->render('/tmp/index.tpl',[
-            'get_val'=>$get_val,
-            'user'=>'easyswoole',
-            'time'=>time()
-        ]));
     }
 
     function reload(){

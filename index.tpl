@@ -1,0 +1,1 @@
+Hello, I'm {$get_val}<br/>   at {$time}.

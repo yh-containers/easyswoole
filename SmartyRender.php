@@ -1,62 +1,38 @@
 <?php
 
-use EasySwoole\Template\Config;
-use EasySwoole\Template\Render;
 use EasySwoole\Template\RenderInterface;
-use \SmartyException;
-use \Throwable;
 
 class SmartyRender implements RenderInterface
 {
-    private $engine;
-
-    function __construct($viewsDir, $cacheDir = '')
+    private $smarty;
+    function __construct()
     {
-        if ($cacheDir == '') {
-            $cacheDir = sys_get_temp_dir();
-        }
-        $this->engine = new \EasySwoole\Template\TestCase\Engine\Smarty($viewsDir, $cacheDir = '');
-        $this->engine->setTemplateDir($viewsDir);
-        $this->engine->setCacheDir($cacheDir);
-        $this->engine->setCompileDir($cacheDir);
+        $temp = sys_get_temp_dir();
+        $this->smarty = new \Smarty();
+        $this->smarty->setTemplateDir(__DIR__.'/');
+        echo $this->smarty->getTemplateDir().PHP_EOL;
+        $this->smarty->setCacheDir("{$temp}/smarty/cache/");
+        $this->smarty->setCompileDir("{$temp}/smarty/compile/");
     }
 
-    /**
-     * 模板渲染
-     * @param string $template
-     * @param array $data
-     * @param array $options
-     * @return string|null
-     * @throws SmartyException
-     */
     public function render(string $template, array $data = [], array $options = []): ?string
     {
-        foreach ($data as $key => $item) {
-            $this->engine->assign($key, $item);
+        foreach ($data as $key => $item){
+            $this->smarty->assign($key,$item);
         }
-        return $this->engine->fetch($template);
+        return $this->smarty->fetch($template,$cache_id = null, $compile_id = null, $parent = null, $display = false,
+            $merge_tpl_vars = true, $no_output_filter = false);
     }
 
-    /**
-     * 每次渲染完成都会执行清理
-     * @param string|null $result
-     * @param string $template
-     * @param array $data
-     * @param array $options
-     */
     public function afterRender(?string $result, string $template, array $data = [], array $options = [])
     {
 
     }
 
-    /**
-     * 异常处理
-     * @param Throwable $throwable
-     * @return string
-     * @throws Throwable
-     */
-    public function onException(Throwable $throwable): string
+    public function onException(\Throwable $throwable): string
     {
-        throw $throwable;
+        $msg = "{$throwable->getMessage()} at file:{$throwable->getFile()} line:{$throwable->getLine()}";
+        trigger_error($msg);
+        return $msg;
     }
 }
