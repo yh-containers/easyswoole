@@ -73,6 +73,7 @@ class Index extends Common
     {
 //        $this->response()->write(::getInstance()->render)
         $get_val = $this->request()->getRequestParam('get_val');
+        $this->response()->write(Render::getInstance()->getConfig()->getTempDir());
         $this->response()->write(Render::getInstance()->render('index.tpl',[
             'user'=>'easyswoole',
             'user'=>'easyswoole',
