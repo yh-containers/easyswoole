@@ -48,7 +48,7 @@ class EasySwooleEvent implements Event
         // TODO: Implement mainServerCreate() method.
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
 //        Render::getInstance()->getConfig()>setRender(new \R());
-        Render::getInstance()->getConfig()->setRender(new \SmartyRender());
+        Render::getInstance()->getConfig()->setRender(new SmartyRender());
 //        $one_process = new \App\Components\Process\One("processName",time(),false,2,true);
 //        ServerManager::getInstance()->getSwooleServer()->addProcess($one_process->getProcess());
 
