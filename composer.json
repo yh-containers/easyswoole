@@ -12,7 +12,8 @@
         "topthink/think-template": "^2.0",
         "swoole/ide-helper": "dev-master",
         "easyswoole/mysqli": "^1.1",
-        "easyswoole/template": "^1.0"
+        "easyswoole/template": "^1.0",
+        "smarty/smarty": "^3.1"
     },
     "autoload": {
         "psr-4": {

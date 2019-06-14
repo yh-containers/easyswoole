@@ -1,0 +1,827 @@
+[2019-06-14 10:47:40][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:47:40][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:47:41][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:47:41][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:47:43][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:47:45][FatalError][file:/var/www/code/EasySwooleEvent.php][line:50]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:50
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:06][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:07][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:07][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:08][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:09][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:52:12][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:19][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:19][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:20][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:20][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:22][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:57:24][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:11][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:11][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:12][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:13][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:14][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:16][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 10:59:20][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:53][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:54][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:54][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:55][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:56][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:00:58][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:01:02][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\SmartyRender' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 11:03:45][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:46][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:46][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:47][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:48][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:50][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:03:54][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:04:01][FatalError][file:/var/www/code/SmartyRender.php][line:13]Uncaught ArgumentCountError: Too few arguments to function SmartyRender::__construct(), 0 passed in /var/www/code/EasySwooleEvent.php on line 53 and at least 1 expected in /var/www/code/SmartyRender.php:13
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(53): SmartyRender->__construct()
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:41][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:41][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:42][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:43][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:44][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:14:46][FatalError][file:/var/www/code/SmartyRender.php][line:18]Uncaught Error: Class 'Smarty' not found in /var/www/code/SmartyRender.php:18
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:05][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:06][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:06][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:07][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:08][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:21:10][FatalError][file:/var/www/code/SmartyRender.php][line:19]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/SmartyRender.php:19
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 11:27:34][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:34][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:35][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:36][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:37][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:39][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:42][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 11:27:49][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/SmartyRender.php(19): EasySwoole\Template\TestCase\Engine\Smarty->__construct('tmp', '/tmp')
+#1 /var/www/code/EasySwooleEvent.php(51): SmartyRender->__construct('tmp')
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#6 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#7 {main}
+  thrown
+[2019-06-14 13:13:55][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:13:56][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:13:56][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:13:57][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:13:58][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:14:00][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:14:04][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Call to undefined function EasySwoole\EasySwoole\setRender() in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:10][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:10][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:11][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:11][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:13][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:24:15][FatalError][file:/var/www/code/EasySwooleEvent.php][line:51]Uncaught Error: Class 'EasySwoole\EasySwoole\Smarty' not found in /var/www/code/EasySwooleEvent.php:51
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:01][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:01][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:02][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:03][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:04][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:06][FatalError][file:/var/www/code/EasySwooleEvent.php][line:52]Uncaught Error: Class 'EasySwoole\Template\TestCase\Engine\Smarty' not found in /var/www/code/EasySwooleEvent.php:52
+Stack trace:
+#0 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown
+[2019-06-14 13:31:30][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:30][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:31][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:31][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:33][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:35][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:38][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
+[2019-06-14 13:31:45][FatalError][file:/var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php][line:23]Uncaught Error: Class 'Smarty' not found in /var/www/code/vendor/easyswoole/template/tests/Engine/Smarty.php:23
+Stack trace:
+#0 /var/www/code/EasySwooleEvent.php(52): EasySwoole\Template\TestCase\Engine\Smarty->__construct('/temp')
+#1 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(123): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#2 /var/www/code/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /var/www/code/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#5 /var/www/code/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#6 {main}
+  thrown
