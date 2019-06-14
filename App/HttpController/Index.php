@@ -3,6 +3,7 @@
 namespace App\HttpController;
 
 use EasySwoole\Component\Di;
+use EasySwoole\Template\Render;
 
 class Index extends Common
 {
@@ -68,6 +69,21 @@ class Index extends Common
         $this->writeJson(200, $this->request()->getCookieParams(), 'getCookieParams  ');
     }
 
+    public function temple_test()
+    {
+//        $this->response()->write(::getInstance()->render)
+        $get_val = $this->request()->getRequestParam('get_val');
+        $this->response()->write(Render::getInstance()->render('index.tpl',[
+            'user'=>'easyswoole',
+            'user'=>'easyswoole',
+            'time'=>time()
+        ]));
+    }
+
+    function reload(){
+        Render::getInstance()->restartWorker();
+        $this->response()->write(1);
+    }
 
     public function test_process()
     {

@@ -28,14 +28,14 @@ class EasySwooleEvent implements Event
         date_default_timezone_set('Asia/Shanghai');
 
         //
-        $mysqlConf = PoolManager::getInstance()->register(MysqlPool::class, Config::getInstance()->getConf('MYSQL.POOL_MAX_NUM'));
-        if($mysqlConf===null){
-            //当返回null时,代表注册失败,无法进行再次的配置修改
-            //注册失败不一定要抛出异常,因为内部实现了自动注册,不需要注册也能使用
-            throw new \Exception('注册失败!');
-        }
-        //设置其他参数
-        $mysqlConf->setMaxObjectNum(20)->setMinObjectNum(5);
+//        $mysqlConf = PoolManager::getInstance()->register(MysqlPool::class, Config::getInstance()->getConf('MYSQL.POOL_MAX_NUM'));
+//        if($mysqlConf===null){
+//            //当返回null时,代表注册失败,无法进行再次的配置修改
+//            //注册失败不一定要抛出异常,因为内部实现了自动注册,不需要注册也能使用
+//            throw new \Exception('注册失败!');
+//        }
+//        //设置其他参数
+//        $mysqlConf->setMaxObjectNum(20)->setMinObjectNum(5);
 
     }
 
@@ -49,15 +49,15 @@ class EasySwooleEvent implements Event
 //        ServerManager::getInstance()->getSwooleServer()->addProcess((new Task('processTask'))->getProcess());
 
         ################### mysql 热启动   #######################
-        $register->add($register::onWorkerStart, function (\swoole_server $server, int $workerId) {
-            if ($server->taskworker == false) {
-                Logger::getInstance()->console("false onWorkerStart:".$workerId);
-                //每个worker进程都预创建连接
-                PoolManager::getInstance()->getPool(MysqlPool::class)->preLoad(5);//最小创建数量
-            }else{
-                Logger::getInstance()->console("true onWorkerStart:".$workerId);
-            }
-        });
+//        $register->add($register::onWorkerStart, function (\swoole_server $server, int $workerId) {
+//            if ($server->taskworker == false) {
+//                Logger::getInstance()->console("false onWorkerStart:".$workerId);
+//                //每个worker进程都预创建连接
+//                PoolManager::getInstance()->getPool(MysqlPool::class)->preLoad(5);//最小创建数量
+//            }else{
+//                Logger::getInstance()->console("true onWorkerStart:".$workerId);
+//            }
+//        });
 
     }
 
