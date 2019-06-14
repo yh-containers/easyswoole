@@ -1638,3 +1638,137 @@
 [2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=61] abnormal exit, status=255, signal=0
 [2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=60] abnormal exit, status=255, signal=0
 [2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=59] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=62] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=63] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=64] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=65] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=66] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=67] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=68] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=69] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=70] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=71] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=72] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=73] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=74] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=75] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=76] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=77] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=78] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=79] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=80] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=81] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=82] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=83] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=85] abnormal exit, status=255, signal=0
+[2019-06-14 10:02:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=84] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=86] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=87] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=88] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=89] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=90] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=91] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=92] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=93] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=94] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=95] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=97] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=96] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=98] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=99] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=100] abnormal exit, status=255, signal=0
+[2019-06-14 10:03:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=101] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=102] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=103] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=105] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=104] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=106] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=107] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=108] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=109] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=110] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=111] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=113] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=112] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=114] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=117] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=115] abnormal exit, status=255, signal=0
+[2019-06-14 10:04:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=116] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=118] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=119] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=120] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=121] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=122] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=125] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=123] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=124] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=126] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=127] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=129] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=128] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=130] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=132] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=131] abnormal exit, status=255, signal=0
+[2019-06-14 10:05:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=133] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=134] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=135] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=137] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=136] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=138] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=139] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=140] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=141] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=142] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=143] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=145] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=144] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=146] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=149] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:58 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=147] abnormal exit, status=255, signal=0
+[2019-06-14 10:06:58 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=148] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=150] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=151] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=152] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=153] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=154] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:28 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=157] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:28 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=155] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:28 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=156] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=159] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=158] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=161] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=160] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=162] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:58 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=164] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:58 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=165] abnormal exit, status=255, signal=0
+[2019-06-14 10:07:58 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=163] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=167] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=166] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=168] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=169] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=170] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=171] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=172] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:28 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=173] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=175] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=174] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=176] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=177] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=178] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=180] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=179] abnormal exit, status=255, signal=0
+[2019-06-14 10:08:58 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=181] abnormal exit, status=255, signal=0
+[2019-06-14 10:09:04 #1.1]	INFO	Server is shutdown now
+[2019-06-14 10:09:08 *186.1]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *185.2]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *184.3]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *183.4]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *182.5]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *189.0]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *188.6]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:09:08 *187.7]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 10:16:33 #1.1]	INFO	Server is shutdown now
+[2019-06-14 10:19:08 #1.1]	INFO	Server is shutdown now
+[2019-06-14 10:28:16 #1.1]	INFO	Server is shutdown now
+[2019-06-14 10:28:23 #1.1]	INFO	Server is shutdown now
+[2019-06-14 10:36:06 #1.1]	INFO	Server is shutdown now
