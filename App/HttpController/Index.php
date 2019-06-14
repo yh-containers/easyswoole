@@ -25,7 +25,7 @@ class Index extends Common
 
     public function index()
     {
-	    $this->render('index');
+	    $this->render('a.html');
 
     }
 

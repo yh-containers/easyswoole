@@ -17,7 +17,7 @@ class Common extends Controller
 
     function render($template,array $vars=[])
     {
-        $engine = new SmartyRender(EASYSWOOLE_ROOT . '/App/Views');
+        $engine = new SmartyRender();
         $render = Render::getInstance();
         $render->getConfig()->setRender($engine);
         $content = $engine->render($template, $vars);

@@ -1,52 +1,37 @@
 <?php
 namespace App\Utility;
 use EasySwoole\Template\RenderInterface;
-use League\Plates\Engine;
 
 class SmartyRender implements RenderInterface
 {
-    private $views;
-    private $engine;
-    public function __construct($views)
+    private $smarty;
+    function __construct()
     {
-        $this->views = $views;
-        $this->engine = new Engine($this->views);
+        $temp = sys_get_temp_dir();
+        $this->smarty = new \Smarty();
+        $this->smarty->setTemplateDir(EASYSWOOLE_ROOT . '/App/Views');
+        $this->smarty->setCacheDir("{$temp}/smarty/cache/");
+        $this->smarty->setCompileDir("{$temp}/smarty/compile/");
     }
-    /**
-     * 渲染模板
-     * @param string $template
-     * @param array $data
-     * @param array $options
-     * @return string|null
-     */
+
     public function render(string $template, array $data = [], array $options = []): ?string
     {
-        // 支持模板引擎以闭包形式设置(多进程渲染时请注意进程隔离问题)
-        if (isset($options['call']) && is_callable($options['call'])) {
-            $options['call']($this->engine);
+        foreach ($data as $key => $item){
+            $this->smarty->assign($key,$item);
         }
-        // 渲染并返回内容
-        return $this->engine->render($template, $data);
+        return $this->smarty->fetch($template,$cache_id = null, $compile_id = null, $parent = null, $display = false,
+            $merge_tpl_vars = true, $no_output_filter = false);
     }
-    /**
-     * 渲染完成
-     * @param string|null $result
-     * @param string $template
-     * @param array $data
-     * @param array $options
-     */
+
     public function afterRender(?string $result, string $template, array $data = [], array $options = [])
     {
-        // 重新创建实例
-        $this->engine = new Engine($this->views);
+
     }
-    /**
-     * 异常时可以输出错误模板
-     * @param \Throwable $throwable
-     * @return string
-     */
+
     public function onException(\Throwable $throwable): string
     {
-        return 'Error: ' . $throwable->getMessage();
+        $msg = "{$throwable->getMessage()} at file:{$throwable->getFile()} line:{$throwable->getLine()}";
+        trigger_error($msg);
+        return $msg;
     }
 }
