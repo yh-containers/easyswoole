@@ -20,18 +20,12 @@ class Index extends Common
 //        return '/test';
 //    }
  
-    public function render()
+
+
+
+    public function index()
     {
-   	
-    }
-
-
-    public function index(){
-	$temp_path = getcwd().'/tmp/a.html';
-	$this->response()->write(getcwd());
-	var_dump(file_exists($temp_path));
-        $this->response()->write(Render::getInstance()->getConfig()->getTempDir());
-	$this->response()->write(Render::getInstance()->render($temp_path));
+	    $this->render('index');
 
     }
 

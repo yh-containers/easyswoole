@@ -1,7 +1,9 @@
 <?php
 namespace App\HttpController;
+use App\Utility\SmartyRender;
 use EasySwoole\Http\AbstractInterface\Controller;
 use EasySwoole\Http\Message\Status;
+use EasySwoole\Template\Render;
 
 class Common extends Controller
 {
@@ -11,6 +13,15 @@ class Common extends Controller
         // TODO: Implement index() method.
         $this->response()->write(getcwd());
 
+    }
+
+    function render($template,array $vars=[])
+    {
+        $engine = new SmartyRender(EASYSWOOLE_ROOT . '/App/Views');
+        $render = Render::getInstance();
+        $render->getConfig()->setRender($engine);
+        $content = $engine->render($template, $vars);
+        $this->response()->write($content);
     }
 
 

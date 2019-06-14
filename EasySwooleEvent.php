@@ -45,7 +45,7 @@ class EasySwooleEvent implements Event
 
     public static function mainServerCreate(EventRegister $register)
     {
-	Render::getInstance()->getConfig()->setRender(new \SmartyRender());
+//	Render::getInstance()->getConfig()->setRender(new \SmartyRender());
         // TODO: Implement mainServerCreate() method.
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
