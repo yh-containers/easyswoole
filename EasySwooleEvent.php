@@ -104,5 +104,5 @@ class R implements RenderInterface
     {
         return $throwable->getMessage();
     }
-}=======
+=======
 >>>>>>> 2ae4a80a5ede083ea7a0b5b37bce921f4e4459df
