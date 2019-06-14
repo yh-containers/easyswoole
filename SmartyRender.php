@@ -5,7 +5,6 @@ use EasySwoole\Template\Render;
 use EasySwoole\Template\RenderInterface;
 use \SmartyException;
 use \Throwable;
-require_once 'vendor/easyswoole/template/tests/Engine/Smarty.php';
 
 class SmartyRender implements RenderInterface
 {

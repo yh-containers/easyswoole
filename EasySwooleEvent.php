@@ -21,7 +21,8 @@ use EasySwoole\Http\Response;
 use EasySwoole\EasySwoole\Logger;
 use EasySwoole\Template\Render;
 
-require_once 'Smarty.php';
+//require_once 'vendor/easyswoole/template/tests/Engine/Smarty.php';
+
 
 class EasySwooleEvent implements Event
 {
@@ -48,7 +49,7 @@ class EasySwooleEvent implements Event
         // TODO: Implement mainServerCreate() method.
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
-        Render::getInstance()->getConfig()->setRender(new \Smarty());
+        Render::getInstance()->getConfig()->setRender(new \EasySwoole\Template\TestCase\Engine\Smarty('/temp'));
 //        Render::getInstance()->getConfig()>setRender(new \R());
 //        Render::getInstance()->getConfig()->setRender(new \SmartyRender('tmp'));
 //        $one_process = new \App\Components\Process\One("processName",time(),false,2,true);
