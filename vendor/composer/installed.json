@@ -568,6 +568,66 @@
         "description": "swoole-ide-helper"
     },
     {
+        "name": "easyswoole/template",
+        "version": "1.0.5",
+        "version_normalized": "1.0.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/easy-swoole/template.git",
+            "reference": "36015d78983a06448ef1656b842d8e83ead2048c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/easy-swoole/template/zipball/36015d78983a06448ef1656b842d8e83ead2048c",
+            "reference": "36015d78983a06448ef1656b842d8e83ead2048c",
+            "shasum": "",
+            "mirrors": [
+                {
+                    "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                    "preferred": true
+                }
+            ]
+        },
+        "require": {
+            "easyswoole/component": "^1.5",
+            "easyswoole/spl": "^1.0"
+        },
+        "require-dev": {
+            "duncan3dc/blade": "^4.5",
+            "easyswoole/phpunit": "^1.0",
+            "easyswoole/swoole-ide-helper": "^1.1",
+            "league/plates": "3.*",
+            "smarty/smarty": "~3.1",
+            "topthink/think-template": "^2.0"
+        },
+        "time": "2019-05-27T05:58:30+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "EasySwoole\\Template\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "YF",
+                "email": "291323003@qq.com"
+            }
+        ],
+        "description": "An efficient swoole framework",
+        "homepage": "https://www.easyswoole.com/",
+        "keywords": [
+            "async",
+            "easyswoole",
+            "framework",
+            "swoole"
+        ]
+    },
+    {
         "name": "easyswoole/trace",
         "version": "1.1.17",
         "version_normalized": "1.1.17.0",

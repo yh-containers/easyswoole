@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "034e11686f79d27fe642b6eeb7d3995a",
+    "content-hash": "3fdada7a119adb2052c7296c17a51a01",
     "packages": [
         {
             "name": "doctrine/instantiator",
@@ -553,6 +553,64 @@
             ],
             "description": "swoole-ide-helper",
             "time": "2018-12-25T07:27:15+00:00"
+        },
+        {
+            "name": "easyswoole/template",
+            "version": "1.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/easy-swoole/template.git",
+                "reference": "36015d78983a06448ef1656b842d8e83ead2048c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/easy-swoole/template/zipball/36015d78983a06448ef1656b842d8e83ead2048c",
+                "reference": "36015d78983a06448ef1656b842d8e83ead2048c",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://dl.laravel-china.org/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "easyswoole/component": "^1.5",
+                "easyswoole/spl": "^1.0"
+            },
+            "require-dev": {
+                "duncan3dc/blade": "^4.5",
+                "easyswoole/phpunit": "^1.0",
+                "easyswoole/swoole-ide-helper": "^1.1",
+                "league/plates": "3.*",
+                "smarty/smarty": "~3.1",
+                "topthink/think-template": "^2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EasySwoole\\Template\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "YF",
+                    "email": "291323003@qq.com"
+                }
+            ],
+            "description": "An efficient swoole framework",
+            "homepage": "https://www.easyswoole.com/",
+            "keywords": [
+                "async",
+                "easyswoole",
+                "framework",
+                "swoole"
+            ],
+            "time": "2019-05-27T05:58:30+00:00"
         },
         {
             "name": "easyswoole/trace",

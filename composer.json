@@ -11,7 +11,8 @@
         "easyswoole/swoole-ide-helper": "^1.2",
         "topthink/think-template": "^2.0",
         "swoole/ide-helper": "dev-master",
-        "easyswoole/mysqli": "^1.1"
+        "easyswoole/mysqli": "^1.1",
+        "easyswoole/template": "^1.0"
     },
     "autoload": {
         "psr-4": {

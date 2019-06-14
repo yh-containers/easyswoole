@@ -1587,3 +1587,54 @@
 [2019-05-14 23:16:38 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=829] abnormal exit, status=255, signal=0
 [2019-05-14 23:22:12 #1.1]	INFO	Server is shutdown now
 [2019-05-14 23:22:21 #1.1]	INFO	Server is shutdown now
+[2019-05-14 23:33:23 #1.1]	INFO	Server is shutdown now
+[2019-05-14 23:37:24 #1.1]	INFO	Server is shutdown now
+[2019-05-14 23:37:29 *17.2]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *21.6]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *19.4]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *20.5]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *18.3]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *15.0]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *22.7]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-05-14 23:37:29 *16.1]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:58:59 #1.1]	INFO	Server is shutdown now
+[2019-06-14 09:59:04 *15.0]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *17.2]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *18.3]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *16.1]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *19.4]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *20.5]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *21.6]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:04 *22.7]	WARNING	swWorker_try_to_exit (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=22] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=15] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=16] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=17] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=18] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=19] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=20] abnormal exit, status=255, signal=0
+[2019-06-14 09:59:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=21] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=35] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=36] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=33] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=32] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=34] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=30] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=31] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=37] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=46] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=50] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=47] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=48] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=49] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=52] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=51] abnormal exit, status=255, signal=0
+[2019-06-14 10:00:57 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=53] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#4[pid=54] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#5[pid=56] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#2[pid=57] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#3[pid=55] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#1[pid=58] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#6[pid=61] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#7[pid=60] abnormal exit, status=255, signal=0
+[2019-06-14 10:01:27 $5.0]	WARNING	swManager_check_exit_status: worker#0[pid=59] abnormal exit, status=255, signal=0
