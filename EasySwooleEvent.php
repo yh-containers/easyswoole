@@ -13,7 +13,10 @@ use App\Process\Task;
 use App\Utility\Pool\MysqlPool;
 use Co\Mysql;
 use EasySwoole\Component\Pool\PoolManager;
+use EasySwoole\Template\Config;
 use EasySwoole\Template\Render;
+use EasySwoole\Template\RenderInterface;
+
 use EasySwoole\EasySwoole\Swoole\EventRegister;
 use EasySwoole\EasySwoole\AbstractInterface\Event;
 use EasySwoole\Http\Request;
@@ -29,6 +32,7 @@ class EasySwooleEvent implements Event
         date_default_timezone_set('Asia/Shanghai');
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
         Render::getInstance()->getConfig()>setRender(new \R());
+
         //
 //        $mysqlConf = PoolManager::getInstance()->register(MysqlPool::class, Config::getInstance()->getConf('MYSQL.POOL_MAX_NUM'));
 //        if($mysqlConf===null){
@@ -44,6 +48,9 @@ class EasySwooleEvent implements Event
     public static function mainServerCreate(EventRegister $register)
     {
         // TODO: Implement mainServerCreate() method.
+        //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
+        Render::getInstance()->getConfig()>setRender(new R());
+
 //        $one_process = new \App\Components\Process\One("processName",time(),false,2,true);
 //        ServerManager::getInstance()->getSwooleServer()->addProcess($one_process->getProcess());
 
@@ -73,5 +80,24 @@ class EasySwooleEvent implements Event
     {
         // TODO: Implement afterAction() method.
         Logger::getInstance()->console("afterRequest string getBody".$response->getBody());
+    }
+}
+
+class R implements RenderInterface
+{
+
+    public function render(string $template, array $data = [], array $options = []):?string
+    {
+        return 'asas';
+    }
+
+    public function afterRender(?string $result, string $template, array $data = [], array $options = [])
+    {
+        // TODO: Implement afterRender() method.
+    }
+
+    public function onException(Throwable $throwable):string
+    {
+        return $throwable->getMessage();
     }
 }
