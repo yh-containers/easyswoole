@@ -30,8 +30,6 @@ class EasySwooleEvent implements Event
     {
         // TODO: Implement initialize() method.
         date_default_timezone_set('Asia/Shanghai');
-        //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
-        Render::getInstance()->getConfig()>setRender(new \R());
 
         //
 //        $mysqlConf = PoolManager::getInstance()->register(MysqlPool::class, Config::getInstance()->getConf('MYSQL.POOL_MAX_NUM'));
