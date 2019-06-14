@@ -21,7 +21,7 @@ use EasySwoole\Http\Response;
 use EasySwoole\EasySwoole\Logger;
 use EasySwoole\Template\Render;
 
-require_once 'SmartyRender.php';
+//require_once 'SmartyRender.php';
 
 
 class EasySwooleEvent implements Event
