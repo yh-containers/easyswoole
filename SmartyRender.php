@@ -1,5 +1,6 @@
 <?php
 
+use EasySwoole\Template\TestCase\Engine\Smarty;
 use EasySwoole\Template\Config;
 use EasySwoole\Template\Render;
 use EasySwoole\Template\RenderInterface;
@@ -15,7 +16,7 @@ class SmartyRender implements RenderInterface
         if ($cacheDir == '') {
             $cacheDir = sys_get_temp_dir();
         }
-        $this->engine = new \Smarty();
+        $this->engine = new Smarty();
         $this->engine->setTemplateDir($viewsDir);
         $this->engine->setCacheDir($cacheDir);
         $this->engine->setCompileDir($cacheDir);
