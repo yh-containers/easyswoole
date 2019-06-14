@@ -1,4 +1,6 @@
 <?php
+namespace EasySwoole\EasySwoole;
+
 use EasySwoole\Template\Config;
 use EasySwoole\Template\Render;
 use EasySwoole\Template\RenderInterface;
