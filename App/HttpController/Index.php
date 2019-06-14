@@ -75,7 +75,7 @@ class Index extends Common
         $get_val = $this->request()->getRequestParam('get_val');
         $this->response()->write(Render::getInstance()->getConfig()->getTempDir());
         $this->response()->write(Render::getInstance()->render('index.tpl',[
-            'user'=>'easyswoole',
+            'get_val'=>$get_val,
             'user'=>'easyswoole',
             'time'=>time()
         ]));
