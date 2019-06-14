@@ -4,7 +4,6 @@ namespace App\HttpController;
 
 use EasySwoole\Component\Di;
 use EasySwoole\Template\Render;
-
 class Index extends Common
 {
 //    public static function initialize()
@@ -20,6 +19,21 @@ class Index extends Common
 //        $this->response()->write('getMethod:'.$this->request()->getMethod());
 //        return '/test';
 //    }
+ 
+    public function render()
+    {
+   	
+    }
+
+
+    public function index(){
+	$temp_path = getcwd().'/tmp/a.html';
+	$this->response()->write(getcwd());
+	var_dump(file_exists($temp_path));
+        $this->response()->write(Render::getInstance()->getConfig()->getTempDir());
+	$this->response()->write(Render::getInstance()->render($temp_path));
+
+    }
 
     function test()
     {
@@ -72,14 +86,11 @@ class Index extends Common
     public function temple_test()
     {
 //        $this->response()->write(::getInstance()->render)
-        $get_val = $this->request()->getRequestParam('get_val');
-        $this->response()->write($get_val);
+	echo '123123123'.PHP_EOL;
+	echo Render::getInstance()->render('a.html').'|||.'.PHP_EOL;
+	echo 'aaaaaa'.PHP_EOL;
         $this->response()->write(Render::getInstance()->getConfig()->getTempDir());
-        $this->response()->write(Render::getInstance()->render('index.tpl',[
-            'get_val'=>$get_val,
-            'user'=>'easyswoole',
-            'time'=>time()
-        ]));
+        print_r(Render::getInstance()->render('index.tpl'));
     }
 
     function reload(){

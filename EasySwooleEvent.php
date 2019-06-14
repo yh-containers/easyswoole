@@ -41,15 +41,17 @@ class EasySwooleEvent implements Event
 //        }
 //        //设置其他参数
 //        $mysqlConf->setMaxObjectNum(20)->setMinObjectNum(5);
-
     }
 
     public static function mainServerCreate(EventRegister $register)
     {
+	Render::getInstance()->getConfig()->setRender(new \SmartyRender());
         // TODO: Implement mainServerCreate() method.
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
         //在全局的主服务中创建事件中，实例化该Render,并注入你的驱动配置
-        Render::getInstance()->getConfig()->setRender(new \SmartyRender());
+        //Render::getInstance()->getConfig()->setRender(new \SmartyRender());
+	
+	//echo Render::getInstance()->render('a.html').'123'.PHP_EOL;
 //        Render::getInstance()->getConfig()>setRender(new \R());
 //        Render::getInstance()->getConfig()->setRender(new \SmartyRender('tmp'));
 //        $one_process = new \App\Components\Process\One("processName",time(),false,2,true);

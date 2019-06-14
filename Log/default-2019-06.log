@@ -206,3 +206,108 @@
 [2019-06-14 13:38:11][default]afterRequest string getBody/var/www/code
 [2019-06-14 13:38:11][default]afterRequest string getBodyaction not found
 [2019-06-14 13:38:15][default]afterRequest string getBody
+[2019-06-14 13:43:38][default]afterRequest string getBody
+[2019-06-14 13:43:43][default]afterRequest string getBody123/tmp
+[2019-06-14 13:47:32][default]afterRequest string getBody123/tmp
+[2019-06-14 13:47:34][default]afterRequest string getBody123/tmp
+[2019-06-14 13:55:54][default]afterRequest string getBody123/tmp
+[2019-06-14 13:55:55][default]afterRequest string getBody123/tmp
+[2019-06-14 13:55:56][default]afterRequest string getBody123/tmp
+[2019-06-14 13:56:03][default]afterRequest string getBody
+[2019-06-14 13:59:24][default]afterRequest string getBody
+[2019-06-14 13:59:27][default]afterRequest string getBody123/tmp
+[2019-06-14 14:00:00][default]afterRequest string getBody123/tmp
+[2019-06-14 14:00:30][default]afterRequest string getBody123/tmp
+[2019-06-14 14:01:27][default]afterRequest string getBody123/tmp
+[2019-06-14 14:05:52][default]afterRequest string getBody/tmp
+[2019-06-14 14:08:05][default]afterRequest string getBody/tmp
+[2019-06-14 14:09:16][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:35][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:11:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:39:21][default]afterRequest string getBody
+[2019-06-14 14:42:29][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:35][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:35][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:36][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:37][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:38][default]afterRequest string getBody/tmp
+[2019-06-14 14:48:38][default]afterRequest string getBody/tmp
+[2019-06-14 14:54:24][default]afterRequest string getBody/tmp
+[2019-06-14 15:03:21][default]afterRequest string getBody/tmp
+[2019-06-14 15:03:22][default]afterRequest string getBody/tmp
+[2019-06-14 15:03:22][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:43][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:43][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:44][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:48][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:50][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:50][default]afterRequest string getBody/tmp
+[2019-06-14 15:17:50][default]afterRequest string getBody/tmp
+[2019-06-14 15:18:12][default]afterRequest string getBody/tmp
+[2019-06-14 15:18:12][default]afterRequest string getBody/tmp
+[2019-06-14 15:18:13][default]afterRequest string getBody/tmp
+[2019-06-14 15:29:18][default]afterRequest string getBody/var/www/code/tmp
+[2019-06-14 15:32:00][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:33:15][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:33:15][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:33:31][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:33:32][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:33:32][default]afterRequest string getBodysyntax error, unexpected ';', expecting ',' or ')'<br />
+#0 /var/www/code/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/var/www/code/v...')<br />
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\HttpControl...')<br />
+#2 [internal function]: spl_autoload_call('App\\HttpControl...')<br />
+#3 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(155): class_exists('App\\HttpControl...')<br />
+#4 /var/www/code/vendor/easyswoole/http/src/Dispatcher.php(137): EasySwoole\Http\Dispatcher->controllerHandler(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response), '/index')<br />
+#5 /var/www/code/vendor/easyswoole/easyswoole/src/Core.php(259): EasySwoole\Http\Dispatcher->dispatch(Object(EasySwoole\Http\Request), Object(EasySwoole\Http\Response))<br />
+#6 {main}
+[2019-06-14 15:34:26][default]afterRequest string getBody/var/www/code/tmp/a.html/tmp
+[2019-06-14 15:35:26][default]afterRequest string getBody/var/www/code/var/www/code/tmp/a.html/tmp
+[2019-06-14 15:37:07][default]afterRequest string getBody/var/www/code/tmp

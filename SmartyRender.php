@@ -10,13 +10,13 @@ class SmartyRender implements RenderInterface
         $temp = sys_get_temp_dir();
         $this->smarty = new \Smarty();
         $this->smarty->setTemplateDir(__DIR__.'/');
-        echo $this->smarty->getTemplateDir().PHP_EOL;
         $this->smarty->setCacheDir("{$temp}/smarty/cache/");
         $this->smarty->setCompileDir("{$temp}/smarty/compile/");
     }
 
     public function render(string $template, array $data = [], array $options = []): ?string
     {
+	echo 'SMARTYRENDER'.PHP_EOL;
         foreach ($data as $key => $item){
             $this->smarty->assign($key,$item);
         }
